@@ -20,4 +20,5 @@ The utils folder consists of python files required for the models.
 Contact Details -
 
 Venkat Giri Anantapatnaikuni  - anantapa@usc.edu
+
 Rohit Veeradhi - veeradhi@usc.edu
